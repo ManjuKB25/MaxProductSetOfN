@@ -8,8 +8,8 @@ The maximum product value wil be achieved when we break the give number into mul
 
 Ex:
 For 8 : 
-3*2*3 : 18
+3x2x3 : 18
 For 15 : 
-3*3*3*3*3 : 243
+3x3x3x3x3 : 243
 For 58 : 
-3*3*3*3*3*3*3*3*3*3*3*3*3*3*3*3*3*3*2*2 : 1549681956
+3x3x3x3x3x3x3x3x3x3x3x3x3x3x3x3x3x3x2x2 : 1549681956
